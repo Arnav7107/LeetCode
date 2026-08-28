@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav7107/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arnav7107/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Arnav7107/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav7107/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Arnav7107/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnav7107/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arnav7107/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
